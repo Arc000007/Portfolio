@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.vercel/
+.work/
+.taste-skill/
+.serena/
+*.log
+Profile Photo.jpg
+Hackathon image Innerve X.jpg
+Hackathon image Morpheus.jpg
+assets/hackathon.jpg

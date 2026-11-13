@@ -1,0 +1,9 @@
+{
+  "name": "archit-bagad-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node --check main.js && node --check scripts/build.mjs"
+  }
+}
